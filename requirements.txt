@@ -1,1 +1,5 @@
-neupy
+scikit-fuzzy
+numpy
+matplotlib
+pandas
+sompy
