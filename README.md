@@ -1,6 +1,6 @@
 # gait-analysis
 
-This was a project developed during the year of 2018 as a graduation thesis oriented by Prof. Fernando Buarque and co-oriented by M.Sc. Rafael Caldas with the title: Analysis and selection of cinematic aspects of the human gait to classify subjects by age group.
+This was a project developed during the year of 2018 as a graduation thesis oriented by Prof. Fernando Buarque and co-oriented by M.Sc. Rafael Caldas with the title: Analysis and selection of cinematic aspects of the human gait to classify subjects by age group. This project was made in portuguese and the full text is [here](https://drive.google.com/file/d/1pqHtTaTi5BP9sa2CXS9OoK8W09H4C2V1/view?usp=sharing). 
 
 This repository contains all the experiments and the data used on the process.
 
