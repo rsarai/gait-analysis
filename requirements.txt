@@ -56,7 +56,7 @@ pystan==2.18.0.0
 python-dateutil==2.7.3
 python-utils==2.3.0
 pytz==2018.4
-PyYAML==3.13
+PyYAML==4.2b1
 pyzmq==17.0.0
 scikit-cmeans==0.1
 scikit-fuzzy==0.4.0
